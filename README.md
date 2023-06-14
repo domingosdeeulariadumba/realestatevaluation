@@ -1,4 +1,4 @@
-# realestateevaluation
+# realestatevaluation
 Real Estate Valuation with multivariate analysis.
 
 SCOPE
