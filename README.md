@@ -25,5 +25,5 @@ REFERENCES
 ACKNOWLEDGEMENT
 
 The dataset used in this project was originally procured from www.datasciencedojo.com.
-undert the title "3. Can you predict the price of a house?" which acknowledges The Machine Learning Repository of California, Irvine Real Estate Valuation (UC Irvine) as its primary source.
+under the title "3. Can you predict the price of a house?" which acknowledges The Machine Learning Repository of California, Irvine Real Estate Valuation (UC Irvine) as its primary source.
 
