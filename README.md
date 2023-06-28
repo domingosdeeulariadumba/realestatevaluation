@@ -10,7 +10,7 @@ DATA DICTIONARY
 BUSINESS PROBLEM
 ![realestate businessproblem](https://github.com/domingosdeeulariadumba/realestateevaluation/assets/110714056/3140889a-34f4-4ba4-a079-384446596d48)
 
-GOALS
+GOAL
 ![realestate goals](https://github.com/domingosdeeulariadumba/realestateevaluation/assets/110714056/ae3496b7-8eec-44c6-a2aa-07e4fd0bbb08)
 
 APPROACH
