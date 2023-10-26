@@ -350,7 +350,7 @@ print('Coefficient of determination (R^2):', r2_score(y1_test, y1_pred))
     As we can notice, removing the last reduced predictor, the performance of 
     the model is practically the same (from 0.599 to 0.585).
     Hence, we can infer that about 58.5% of the target variance can be explained
-    by the predictors variance.
+    by the predictors.
     """
 
 # Reanalysing the statistical significance
